@@ -1,0 +1,2 @@
+-- Monday Coffee analysis queries
+-- TODO: paste the queries for activities 2 to 5 here
